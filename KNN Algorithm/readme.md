@@ -24,6 +24,11 @@ This file:
 - Trains the `KNN` classifier using `clf.fit(X_train, y_train)`.
 - Predicts test data labels and computes accuracy.
 
+### Visualization of the Predictions
+
+![Visuals of the Predictions](./predictions.png)
+
+
 ## What I Learned
 1. **Understanding KNN**: Implementing KNN manually gave me a deeper understanding of how it works, especially how distance calculation and majority voting determine class labels.
 2. **Euclidean Distance**: Learned how Euclidean distance is used to find nearest neighbors.
