@@ -42,6 +42,6 @@ class RandomForest:
   # Make predictions on the test data
   def predict(self, X):
     predictions = np.array([tree.predict(X) for tree in self.trees])
-    tree_predictions = np.swapaxes(predictions, 0, 1, out=predictions)
+    tree_predictions = np.swapaxes(predictions, 0, 1)
     predictions = np.array([self._most_common_label(pred) for pred in tree_predictions])
     return predictions
