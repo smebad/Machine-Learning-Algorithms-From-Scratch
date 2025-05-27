@@ -126,12 +126,4 @@ This confirms that PCA successfully reduced the dataset from 4D to 2D while pres
 
 ---
 
-## File List
-
-* `pca.py`: Contains the PCA class implementation from scratch.
-* `train_test.py`: Loads the dataset, applies PCA, and visualizes the transformed data with a color bar.
-* `pca_analysis.png`: Output plot showing PCA results with a color bar for class distinction.
-
----
-
 This project solidified my understanding of PCA by writing every step myself, without relying on libraries like `scikit-learn`. It's a strong foundation for more advanced dimensionality reduction and unsupervised learning techniques.
