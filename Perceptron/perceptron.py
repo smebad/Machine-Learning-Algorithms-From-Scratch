@@ -19,7 +19,7 @@ class Perceptron:
         self.weights = np.zeros(n_features)
         self.bias = 0
 
-        y_ = np.array(y > 0, 1, 0) # Convert y to binary labels
+        y_ = np.where(y > 0, 1, 0) # Convert y to binary labels
 
         for _ in range(self.n_iterations): # Iterate over the number of iterations
             for idx, X_i in enumerate(X): # Iterate over each sample
