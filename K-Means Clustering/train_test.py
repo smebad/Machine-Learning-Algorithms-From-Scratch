@@ -1,4 +1,4 @@
-from knn import KMeans
+from kmeans import KMeans
 import numpy as np
 from sklearn.datasets import make_blobs
 
