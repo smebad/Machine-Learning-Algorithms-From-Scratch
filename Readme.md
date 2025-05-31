@@ -73,7 +73,7 @@ Here are the **10 most common used machine learning algorithms** I implemented f
 
 ## Contribution
 
-I welcome contributions, ideas, and improvements from the community. Whether you want to fix a bug, optimize performance, or add a new algorithm—feel free to open an issue or pull request.
+I welcome contributions, ideas, and improvements from the community. Whether you want to fix a bug, optimize performance, or add a new algorithm, feel free to open an issue or pull request.
 
 ---
 
