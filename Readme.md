@@ -45,10 +45,10 @@ Here are the **10 most common used machine learning algorithms** I implemented f
 * A simple neural model for binary classification
 * Reinforced understanding of linear classifiers and iterative learning
 
-### 7. **Neural Network (Feedforward)**
+### 7. **Naive Bayes Classifier**
 
-* Implemented a multi-layer perceptron (MLP) with backpropagation
-* Learned about forward propagation, activation functions (ReLU, Sigmoid), and gradient descent
+* Implemented the Naive Bayes classifier from scratch using NumPy
+* Tests the classifier using a synthetic dataset from Scikit-learn
 
 ### 8. **K-Means Clustering**
 
@@ -60,10 +60,10 @@ Here are the **10 most common used machine learning algorithms** I implemented f
 * Implemented using eigen decomposition of the covariance matrix
 * Learned about dimensionality reduction and variance maximization
 
-### 10. **Gradient Descent Variants**
+### 10. **Random Forest**
 
-* Implemented Batch and Stochastic Gradient Descent (SGD)
-* Learned about optimization strategies and trade-offs between speed and stability
+* Implemented Random Forestand  Deeply understand how decision trees work and how they are used in ensembles
+* Learned how bootstrap sampling and feature randomness contribute to model robustness
 
 ## Goals
 
