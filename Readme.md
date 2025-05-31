@@ -13,7 +13,7 @@ This repository is a collection of machine learning algorithms that I implemente
 
 ## Implemented Algorithms
 
-Here are the **10 machine learning algorithms** I implemented from scratch:
+Here are the **10 most common used machine learning algorithms** I implemented from scratch:
 
 ### 1. **K-Nearest Neighbors (KNN)**
 
